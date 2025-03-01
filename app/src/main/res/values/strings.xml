@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NASAInYourPocket</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_dashboard_screen">DashboardScreen</string>
+    <string name="title_activity_rover_images_screen">RoverImagesScreen</string>
+</resources>
